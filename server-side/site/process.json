@@ -1,0 +1,20 @@
+
+{
+ "apps" : [{
+   "name"    :"checkbox-server",
+   "script"  :"server.js",
+   "args"    :"start"
+
+{
+ "apps" : [{
+   "name"    :"checkbox-server",
+   "script"  :"server.js",
+   "args"    :"start"
+
+ }
+ ]
+}
+
+ }
+ ]
+}
